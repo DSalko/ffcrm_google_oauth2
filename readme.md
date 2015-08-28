@@ -22,4 +22,6 @@ To allow ONLY OAuth login add the following to your settings.yml:
 :oauth_only: true
 ```
 
-This project rocks and uses MIT-LICENSE.
+This project rocks and uses MIT-LICENSE. 
+
+Sponsored by [JobMapr - local job fairs search](https://jobmapr.com)
